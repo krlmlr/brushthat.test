@@ -11,3 +11,4 @@ Date: 2017-05-11
 BugReports: https://github.com/krlmlr/brushthat.test/issues
 URL: https://github.com/krlmlr/brushthat.test, http://krlmlr.github.io/brushthat.test
 Roxygen: list(markdown = TRUE)
+Suggests: testthat
